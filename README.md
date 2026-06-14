@@ -108,6 +108,7 @@ Select Metric = {
 ---
 
 ### 📂 Repository Structure
+'''
 ├── Reports/                        # Power BI files and dashboard screenshots
 │   ├── Executive_Sales_Performance_Dashboard.pbix
 │   ├── Screenshot 2026-06-14 172226.png
@@ -136,7 +137,7 @@ Select Metric = {
 3. **Open Dashboard:** Launch `Reports/Executive_Sales_Performance_Dashboard.pbix` in Power BI Desktop.
 4. **Connect Data Source:** Update Data Source Settings to point to your SQL Server instance.
 5. **Refresh:** Click Refresh in Power BI to propagate the Medallion data through the model.
-
+'''
 ---
 
 ### 📌 What I Learned
