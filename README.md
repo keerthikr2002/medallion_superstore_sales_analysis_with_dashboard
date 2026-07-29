@@ -72,7 +72,8 @@ The core challenge this project solves: **raw sales data across multiple domains
     *   *Data Meaning:* High product movement across warehouses, driven primarily by low-ticket accessory items.
 
 #### 2. Deep-Dive Trend Analysis & Strategic Metrics Correlation
-*   **Revenue vs. Cost Variance (Scale Efficiency):** Moving into FY 2013, monthly trends showcase strong business performance. Monthly sales built momentum from $0.8M in January up to $1.5M in June. Profitability surged in H2. In December, sales reached a peak of $1.8M while costs were capped at $1.1M, securing an outstanding $1.06M in net profit for a single month, indicating optimized overhead as volume scaled up.
+*   **Revenue vs. Cost Variance (Scale Efficiency):**Moving into FY 2013, monthly trends showcase strong business performance. Monthly sales built momentum from $0.8M in January up to $1.5M in June. Profitability surged in H2. In December, sales reached a peak of $1.8M while costs were capped at $1.1M, securing an outstanding $0.7M in net profit for a single month, indicating optimized overhead as volume scaled up.
+
 *   **Customer Acquisition vs. Ticket Size:** Total Orders jumped +551.2%, but Total Sales increased by a lower +164.8%. This divergence highlights a structural pivot. In 2012, the business focused on high-ticket, low-volume sales. In 2013, the brand successfully entered high-volume, mainstream consumer channels, anchored by **Tires and Tubes** moving a massive 21,000 units.
 
 #### 3. Demographics & Geographic Market Insights
